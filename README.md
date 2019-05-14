@@ -3,3 +3,5 @@ Data science in Python Assignment. The readability of various news outlets and a
 
 To see the rendered notebook just click this link:
 http://htmlpreview.github.io/?https://github.com/shaneg1507/comparing-readability-of-newspapers/blob/master/Readability.html
+
+The file with the academic journal data was too large to upload
